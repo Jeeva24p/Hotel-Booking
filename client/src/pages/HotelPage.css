@@ -1,0 +1,49 @@
+/* src/pages/HotelPage.css */
+
+.hotel-page {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hotel-page h1 {
+    margin: 0 0 20px;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .hotel-page img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .hotel-page p {
+    margin: 0 0 10px;
+    color: #666;
+  }
+  
+  .hotel-page .price {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .hotel-page .rating {
+    font-size: 1rem;
+    color: #ffbb00;
+  }
+  
+  .booking-form-container {
+    margin: 20px 0;
+  }
+  
+  .reviews-container {
+    margin: 20px 0;
+  }
+  
